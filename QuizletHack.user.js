@@ -282,8 +282,8 @@ githubLabel.style.color = 'white';
 githubContainer.appendChild(githubLabel);
 
 const githubUrl = document.createElement('a');
-githubUrl.textContent = 'jokeri2222';
-githubUrl.href = 'https://github.com/jokeri2222';
+githubUrl.textContent = 'FIRE_YT';
+githubUrl.href = 'SUB';
 githubUrl.target = '_blank';
 githubUrl.style.fontSize = '1.5vw';
 githubUrl.style.margin = '0 1vw';
@@ -291,8 +291,8 @@ githubUrl.style.color = 'white';
 githubContainer.appendChild(githubUrl);
 
 const githubUrl2 = document.createElement('a');
-githubUrl2.textContent = 'Epic0001';
-githubUrl2.href = 'https://github.com/Epic0001';
+githubUrl2.textContent = 'DONT HACK';
+githubUrl2.href = '...';
 githubUrl2.target = '_blank';
 githubUrl2.style.fontSize = '1.5vw';
 githubUrl2.style.margin = '0 1vw';
